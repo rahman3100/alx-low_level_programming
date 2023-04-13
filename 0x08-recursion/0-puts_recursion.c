@@ -3,6 +3,7 @@
  * to print a string using recursion
  * always return 0
  */
+void _puts_recursion(char *s)
 {
 	if (*s)
 	{
