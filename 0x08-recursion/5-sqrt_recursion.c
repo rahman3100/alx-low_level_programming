@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /*
  * function that returns the natural square root of a number.
  * return: always zero

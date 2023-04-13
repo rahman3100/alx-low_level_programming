@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /*
  * a function that returns the factorial of a given number.
  * always return 0

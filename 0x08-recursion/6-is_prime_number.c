@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /*
  * a function that prints prime input integers
  * return 1 if it is a prime number or otherwise 0
